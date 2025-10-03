@@ -1,0 +1,1 @@
+J'ai fais le projet "Assigment 2 - Geometry War" du cours de programmation de jeux vidéo de Dave Churchill (https://www.youtube.com/live/OmzU_-zbE7o?si=lThHzv5xes8WGzj4&t=180) qui utilise SFML et une architecture ECS (Entity, component, system).
